@@ -121,6 +121,5 @@ int main(void)
 					GPIOPinWrite(GPIO_PORTF_BASE, GPIO_PIN_1, 0x00);
 			}
 			
-			
     }
 }
